@@ -1,0 +1,19 @@
+C:\Users\Edson\Downloads\dotras-107293\Trunk\examples\src\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\bin\Debug\Discador G2 Tecnologia.exe
+C:\Users\Edson\Downloads\dotras-107293\Trunk\examples\src\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\bin\Debug\Discador G2 Tecnologia.pdb
+C:\Users\Edson\Downloads\dotras-107293\Trunk\examples\src\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\bin\Debug\DotRas.dll
+C:\Users\Edson\Downloads\dotras-107293\Trunk\examples\src\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\bin\Debug\DotRas.xml
+C:\Users\Edson\Downloads\dotras-107293\Trunk\examples\src\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\obj\Debug\DotRas.Samples.CreateAndDialVpnEntry.MainForm.resources
+C:\Users\Edson\Downloads\dotras-107293\Trunk\examples\src\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\obj\Debug\DotRas.Samples.CreateAndDialVpnEntry.Properties.Resources.resources
+C:\Users\Edson\Downloads\dotras-107293\Trunk\examples\src\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\obj\Debug\CreateAndDialVpnEntry.csproj.GenerateResource.Cache
+C:\Users\Edson\Downloads\dotras-107293\Trunk\examples\src\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\obj\Debug\Discador G2 Tecnologia.exe
+C:\Users\Edson\Downloads\dotras-107293\Trunk\examples\src\WinForms\CreateAndDialVpnEntry\CS\CreateAndDialVpnEntry\obj\Debug\Discador G2 Tecnologia.pdb
+C:\edson\Freelas\PPPoEDialer\CreateAndDialVpnEntry\bin\Debug\DotRas.dll
+C:\edson\Freelas\PPPoEDialer\CreateAndDialVpnEntry\bin\Debug\DotRas.xml
+C:\edson\Freelas\PPPoEDialer\CreateAndDialVpnEntry\obj\Debug\CreateAndDialVpnEntry.csprojResolveAssemblyReference.cache
+C:\edson\Freelas\PPPoEDialer\CreateAndDialVpnEntry\obj\Debug\DotRas.Samples.CreateAndDialVpnEntry.MainForm.resources
+C:\edson\Freelas\PPPoEDialer\CreateAndDialVpnEntry\obj\Debug\DotRas.Samples.CreateAndDialVpnEntry.Properties.Resources.resources
+C:\edson\Freelas\PPPoEDialer\CreateAndDialVpnEntry\obj\Debug\CreateAndDialVpnEntry.csproj.GenerateResource.Cache
+C:\edson\Freelas\PPPoEDialer\CreateAndDialVpnEntry\bin\Debug\Discador G2 Telecom.exe
+C:\edson\Freelas\PPPoEDialer\CreateAndDialVpnEntry\bin\Debug\Discador G2 Telecom.pdb
+C:\edson\Freelas\PPPoEDialer\CreateAndDialVpnEntry\obj\Debug\Discador G2 Telecom.exe
+C:\edson\Freelas\PPPoEDialer\CreateAndDialVpnEntry\obj\Debug\Discador G2 Telecom.pdb

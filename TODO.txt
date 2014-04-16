@@ -1,0 +1,5 @@
+- Criar servidor PPoE
+- Conectar PPoE na mão
+- Identificar a conexão PPoE criada manualmente por meio do programa
+- Fazer o programa autenticar
+- Embelezar o programa
